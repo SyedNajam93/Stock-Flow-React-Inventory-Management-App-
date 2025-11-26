@@ -1,4 +1,4 @@
-# Base44 App
+# React inventory managemnt website 
 
 
 This app was created automatically by Base44.
